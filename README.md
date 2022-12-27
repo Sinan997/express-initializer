@@ -7,6 +7,7 @@
 ````
 git clone <remote> .
 npm install
+npm run dev
 ````
 
 you can remove empty .gitignore files in folders.
