@@ -13,5 +13,5 @@ app.get("/",(req,res)=>{
 })
 
 app.listen(PORT,()=>{
-    console.log("server is listening at http://localhost:",PORT);
+    console.log("server is listening at http://localhost:"+PORT);
 })
